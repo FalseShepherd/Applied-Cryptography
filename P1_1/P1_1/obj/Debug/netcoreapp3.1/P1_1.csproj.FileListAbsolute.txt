@@ -1,0 +1,13 @@
+/home/maxim/Documents/P1_1/obj/Debug/netcoreapp3.1/P1_1.csprojAssemblyReference.cache
+/home/maxim/Documents/P1_1/obj/Debug/netcoreapp3.1/P1_1.AssemblyInfoInputs.cache
+/home/maxim/Documents/P1_1/obj/Debug/netcoreapp3.1/P1_1.AssemblyInfo.cs
+/home/maxim/Documents/P1_1/obj/Debug/netcoreapp3.1/P1_1.csproj.CoreCompileInputs.cache
+/home/maxim/Documents/P1_1/bin/Debug/netcoreapp3.1/P1_1
+/home/maxim/Documents/P1_1/bin/Debug/netcoreapp3.1/P1_1.deps.json
+/home/maxim/Documents/P1_1/bin/Debug/netcoreapp3.1/P1_1.runtimeconfig.json
+/home/maxim/Documents/P1_1/bin/Debug/netcoreapp3.1/P1_1.runtimeconfig.dev.json
+/home/maxim/Documents/P1_1/bin/Debug/netcoreapp3.1/P1_1.dll
+/home/maxim/Documents/P1_1/bin/Debug/netcoreapp3.1/P1_1.pdb
+/home/maxim/Documents/P1_1/obj/Debug/netcoreapp3.1/P1_1.dll
+/home/maxim/Documents/P1_1/obj/Debug/netcoreapp3.1/P1_1.pdb
+/home/maxim/Documents/P1_1/obj/Debug/netcoreapp3.1/P1_1.genruntimeconfig.cache

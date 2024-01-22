@@ -1,0 +1,27 @@
+/home/maxim/Documents/P2/obj/Debug/netcoreapp3.1/P2.csprojAssemblyReference.cache
+/home/maxim/Documents/P2/obj/Debug/netcoreapp3.1/P2.AssemblyInfoInputs.cache
+/home/maxim/Documents/P2/obj/Debug/netcoreapp3.1/P2.AssemblyInfo.cs
+/home/maxim/Documents/P2/obj/Debug/netcoreapp3.1/P2.csproj.CoreCompileInputs.cache
+/home/maxim/Documents/P2/bin/Debug/netcoreapp3.1/P2
+/home/maxim/Documents/P2/bin/Debug/netcoreapp3.1/P2.deps.json
+/home/maxim/Documents/P2/bin/Debug/netcoreapp3.1/P2.runtimeconfig.json
+/home/maxim/Documents/P2/bin/Debug/netcoreapp3.1/P2.runtimeconfig.dev.json
+/home/maxim/Documents/P2/bin/Debug/netcoreapp3.1/P2.dll
+/home/maxim/Documents/P2/bin/Debug/netcoreapp3.1/P2.pdb
+/home/maxim/Documents/P2/obj/Debug/netcoreapp3.1/P2.dll
+/home/maxim/Documents/P2/obj/Debug/netcoreapp3.1/P2.pdb
+/home/maxim/Documents/P2/obj/Debug/netcoreapp3.1/P2.genruntimeconfig.cache
+C:\Users\Maxim\Documents\ASU\Applied Cryptography\P2\P2\bin\Debug\netcoreapp3.1\P2.exe
+C:\Users\Maxim\Documents\ASU\Applied Cryptography\P2\P2\bin\Debug\netcoreapp3.1\P2.deps.json
+C:\Users\Maxim\Documents\ASU\Applied Cryptography\P2\P2\bin\Debug\netcoreapp3.1\P2.runtimeconfig.json
+C:\Users\Maxim\Documents\ASU\Applied Cryptography\P2\P2\bin\Debug\netcoreapp3.1\P2.runtimeconfig.dev.json
+C:\Users\Maxim\Documents\ASU\Applied Cryptography\P2\P2\bin\Debug\netcoreapp3.1\P2.dll
+C:\Users\Maxim\Documents\ASU\Applied Cryptography\P2\P2\bin\Debug\netcoreapp3.1\P2.pdb
+C:\Users\Maxim\Documents\ASU\Applied Cryptography\P2\P2\obj\Debug\netcoreapp3.1\P2.csproj.AssemblyReference.cache
+C:\Users\Maxim\Documents\ASU\Applied Cryptography\P2\P2\obj\Debug\netcoreapp3.1\P2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxim\Documents\ASU\Applied Cryptography\P2\P2\obj\Debug\netcoreapp3.1\P2.AssemblyInfoInputs.cache
+C:\Users\Maxim\Documents\ASU\Applied Cryptography\P2\P2\obj\Debug\netcoreapp3.1\P2.AssemblyInfo.cs
+C:\Users\Maxim\Documents\ASU\Applied Cryptography\P2\P2\obj\Debug\netcoreapp3.1\P2.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\Documents\ASU\Applied Cryptography\P2\P2\obj\Debug\netcoreapp3.1\P2.dll
+C:\Users\Maxim\Documents\ASU\Applied Cryptography\P2\P2\obj\Debug\netcoreapp3.1\P2.pdb
+C:\Users\Maxim\Documents\ASU\Applied Cryptography\P2\P2\obj\Debug\netcoreapp3.1\P2.genruntimeconfig.cache

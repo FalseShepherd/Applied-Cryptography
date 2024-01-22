@@ -1,0 +1,13 @@
+/home/maxim/Documents/P3/bin/Debug/netcoreapp3.1/P3
+/home/maxim/Documents/P3/bin/Debug/netcoreapp3.1/P3.deps.json
+/home/maxim/Documents/P3/bin/Debug/netcoreapp3.1/P3.runtimeconfig.json
+/home/maxim/Documents/P3/bin/Debug/netcoreapp3.1/P3.runtimeconfig.dev.json
+/home/maxim/Documents/P3/bin/Debug/netcoreapp3.1/P3.dll
+/home/maxim/Documents/P3/bin/Debug/netcoreapp3.1/P3.pdb
+/home/maxim/Documents/P3/obj/Debug/netcoreapp3.1/P3.csprojAssemblyReference.cache
+/home/maxim/Documents/P3/obj/Debug/netcoreapp3.1/P3.AssemblyInfoInputs.cache
+/home/maxim/Documents/P3/obj/Debug/netcoreapp3.1/P3.AssemblyInfo.cs
+/home/maxim/Documents/P3/obj/Debug/netcoreapp3.1/P3.csproj.CoreCompileInputs.cache
+/home/maxim/Documents/P3/obj/Debug/netcoreapp3.1/P3.dll
+/home/maxim/Documents/P3/obj/Debug/netcoreapp3.1/P3.pdb
+/home/maxim/Documents/P3/obj/Debug/netcoreapp3.1/P3.genruntimeconfig.cache
