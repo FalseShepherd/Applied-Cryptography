@@ -10,8 +10,9 @@ Project 1 implements an MD5 hashing system with a built-in salt. Additionally, i
 
 Project 2 is a Diffie Hellman key exchange simulation using AES. The program can perform encryption or decryption tasks with an arbitrary key. Run the program using:
 
-```bash
-dotnet run 1 2 3 4 5 6 7 8 9```
+bash```
+dotnet run 1 2 3 4 5 6 7 8 9
+```
 
 Where:
 
