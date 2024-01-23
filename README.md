@@ -32,7 +32,7 @@ Project 3 is an implementation of RSA using the Extended Euclidean algorithm to 
 ```bash
 dotnet run 1 2 3 4 5 6
 ```
-where: 
+Where: 
 1. p_e in base 10
 2. p_c in base 10
 3. q_e in base 10
