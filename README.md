@@ -10,7 +10,7 @@ Project 1 implements an MD5 hashing system with a built-in salt. Additionally, i
 
 Project 2 is a Diffie Hellman key exchange simulation using AES. The program can perform encryption or decryption tasks with an arbitrary key. Run the program using:
 
-bash```
+```bash
 dotnet run 1 2 3 4 5 6 7 8 9
 ```
 
@@ -29,7 +29,7 @@ Where:
 **## Project 3: RSA Implementation**
 Project 3 is an implementation of RSA using the Extended Euclidean algorithm to calculate suitable key values. The program can encrypt/decrypt given plaintext and ciphertext values. Run the program using:
 
-bash```
+```bash
 dotnet run 1 2 3 4 5 6
 ```
 where: 
